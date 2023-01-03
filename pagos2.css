@@ -1,0 +1,33 @@
+body {
+
+    
+    background-color: black;
+
+}
+.section {height:18px; margin: 2px 4px; padding:1px;
+}
+.section {color:white; font-size:18px;text-decoration: none ; display: block ; text-indent: 4px ; text-align: left; font-style:normal; text-shadow:0px 0px 8px white;
+	}
+.cuentas { display:inline-block; height:30px ; width:300px; float:right; margin: 1px 0px
+}
+.cuentasizq {display:inline-block; height:30px; width:10%; float:lefth
+}
+.cuentasizq img {height:30px; width:30px; padding:4px;
+}
+.cuentasder {display:inline-block; height:20px; width:83%; float:right;margin-top:10px
+}
+.cuentasder {color:white; font-size:20px; font-style:normal; text-shadow:0px 0px 8px white;
+	 }
+
+.footer {
+   position: fixed;
+   left:0px; padding: 4px 10px;
+   bottom:0px;
+   height:18px;color: withe; margin: 0px 1%;
+	 border-radius:8px 8px 0px 0px;
+	-webkit-border-radius:8px 8px 0px 0px;
+	-moz-border-radius:8px 8px 0px 0px;
+	background:url(logos/footer.png);
+}
+.footer a{ text-decoration:none; font-size:16px; COLOR:white ; text-decoration: none ;margin-top:40px;}
+.footer a:hover {color: white}

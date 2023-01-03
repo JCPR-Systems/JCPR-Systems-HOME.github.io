@@ -1,0 +1,232 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: Helvetica Neue; 
+}
+body { BACKGROUND-POSITION: left top ;text-align: center; background-attachment: fixed; background: url(logos/fondo.gif) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover; }
+
+body img{
+	width:100%;
+
+}
+/*titulo*/
+div#titulo{
+	width:100%;
+	margin-top:100px;
+}
+
+p#header{
+	text-align: center;
+	font-size: 2.5em;
+	color:#9a9a9a;
+}
+
+p#subheader{
+	text-align: center;
+	color:#cecece;
+	margin-top:20px;
+	font-size: 1.3em;
+}
+
+div.izq {width:10%;display:inline-block; width:10%;}
+div.paginas{
+	width:90%;
+	; margin:2% 0px; float:right; display:inline-block;}
+
+
+div.contenedor{
+	width: 120px;
+	height: 150px; display: inline-block;
+	float:left; margin:8px 4px 4px 4px; padding:2px;
+	-webkit-transition: height 5.4s;
+	   -moz-border-radius: 20px 0px 0px 0px;
+  -webkit-border-radius: 20px 0px 0px 0px;
+   border-radius: 20px 0px 0px 0px;
+    -webkit-transition: all 0.9s ease-out;
+	-moz-transition: all 0.9s ease-out;
+	-o-transition: all 0.9s ease-out;
+	transition: all 0.9s ease-out; font-size:14px; font-style:normal; text-shadow:0px 0px 8px white;
+}
+div.link{
+	display: inline-block;
+	background-color: rgba(255,255,255,.15);
+	width:40px ;
+	margin-top:8px; border: white 2px solid; background-color: red;float:lefth
+}
+div.link2{
+	display: inline;
+	background-color: rgba(255,255,255,.15);
+	width:64px;padding:2px;margin-top:4px;
+  border: white 2px solid; background-color: red; float:right
+}
+div.link3{
+	display: inline;
+	background-color: rgba(255,255,255,.15);
+	width:64px;padding:2px;
+  border: white 2px solid; background-color: red; float:right; margin-top: -22px
+}
+div.link img { height:40px; width:40px}
+div.link:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.9);
+}
+
+div.link2 a, div.link3 a{
+font-family:Constantia; font-size:14px;; color:white ; text-decoration: none ; display: block ; text-indent: 4px ; text-align: left;
+	-moz-border-radius: 20px 0px 10px 0px;
+  -webkit-border-radius: 20px 0px 10px 0px;
+   border-radius: 20px 0px 10px 0px;
+  -webkit-transition: all 0.9s ease-in;
+	-moz-transition: all 0.9s ease-in;
+	-o-transition: all 0.9s ease-in;
+	transition: all 0.9s ease-in;font-weight:bold;
+	}
+div.link:hover,div.link2:hover, div.link3:hover {color: black ; background-color: blue;
+   -moz-border-radius: 0px 0px 10px 0px;
+  -webkit-border-radius: 0px 0px 10px 0px;
+   border-radius: 0px 0px 10px 0px;
+    -webkit-transition: all 0.9s ease-out;
+	-moz-transition: all 0.9s ease-out;
+	-o-transition: all 0.9s ease-out;
+	transition: all 0.9s ease-out; font-size:14px; font-style:normal; text-shadow:0px 0px 8px white;
+	 }
+div.link2 a:hover, div.link3 a:hover {color: black;
+   -moz-border-radius: 20px 0px 10px 0px;
+  -webkit-border-radius: 20px 0px 10px 0px;
+   border-radius: 20px 0px 10px 0px;
+    -webkit-transition: all 0.9s ease-out;
+	-moz-transition: all 1.9s ease-out;
+	-o-transition: all 1.9s ease-out;
+	transition: all 1.9s ease-out; font-size:14px; font-style:normal; text-shadow:0px 0px 8px white;
+	 }
+div#uno{
+		background:  url(http://ciber.papeleriaavilan.com.ve/logos/fon2.png)
+		
+}
+div#dos{
+	background-image:url(logos/fon2.png)
+}
+
+div#tres{
+	background-color: rgb(22,145,190);
+}
+
+div#cuatro{
+	background-color: rgb(22,107,162);
+}
+
+div#cinco{
+	background-color: rgb(27,54,71);
+}
+
+div#seis{
+	background-color: rgb(21,40,54);
+}
+img.icon{
+	display: block;
+	margin:-10px auto;
+	background-image: url(logos/fond2.png);
+	height:50px; width:50px;
+	padding:14px;
+	-webkit-border-radius: 20%;
+	-webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+	-webkit-transition:box-shadow .4s;
+}
+
+p.texto{
+	font-size: 0.9em;
+	color:white;
+	text-align: center;
+	padding-top:20px;
+	-webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover p.texto{
+	opacity: 1;
+}
+div.contenedor:hover{
+	background-color: black;
+}
+
+div.contenedor:hover img.icon{
+  height:70px; width:70px;
+	padding:4px; background:  url(http://ciber.papeleriaavilan.com.ve/logos/fon2.png);
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

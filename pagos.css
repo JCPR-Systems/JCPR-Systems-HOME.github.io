@@ -1,0 +1,19 @@
+body {
+
+    
+    background-color: black;
+
+}
+
+.footer {
+   position: fixed;
+   left:0px; padding: 4px 10px;
+   bottom:0px;
+   height:18px;color: withe; margin: 0px 1%;
+	 border-radius:8px 8px 0px 0px;
+	-webkit-border-radius:8px 8px 0px 0px;
+	-moz-border-radius:8px 8px 0px 0px;
+	background:url(logos/footer.png);
+}
+.footer a{ text-decoration:none; font-size:16px; COLOR:white ; text-decoration: none ;margin-top:40px;}
+.footer a:hover {color: white}
